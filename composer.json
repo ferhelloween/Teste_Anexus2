@@ -1,0 +1,12 @@
+{
+    "name": "fernando/teste_anexus2",
+    "type": "project",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Fernando Henrique",
+            "email": "fernandohpegoncalves@gmail.com"
+        }
+    ],
+    "require": {}
+}
